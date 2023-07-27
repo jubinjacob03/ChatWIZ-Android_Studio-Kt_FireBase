@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/user"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/user"
+            android:layout_alignParentStart="@+id/txt_name"
+            android:layout_marginTop="5dp"
+            android:padding="5dp"/>
+
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/txt_name"
+            android:fontFamily="@font/extrabold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jubin"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="55dp"
+            />
+
+        <View
+            android:layout_below="@id/txt_name"
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="1dp"
+            android:background="@color/black"/>
+
+</RelativeLayout>

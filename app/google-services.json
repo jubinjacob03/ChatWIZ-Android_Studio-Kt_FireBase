@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494740629169",
+    "project_id": "chat-wiz",
+    "storage_bucket": "chat-wiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494740629169:android:8fcfa840bbb4d36ce72490",
+        "android_client_info": {
+          "package_name": "com.example.chatwiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494740629169-9aomn62h6tbubv5u3sfrolrn3nlflq34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqK8PvVv3a_XAUx64zttet-PXGFhN0x7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494740629169-9aomn62h6tbubv5u3sfrolrn3nlflq34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
