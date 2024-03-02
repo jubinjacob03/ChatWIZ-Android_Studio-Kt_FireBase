@@ -1,2 +1,15 @@
 # ChatWIZ-Android_Studio-Kt_FireBase
-This is a simple Android Chat application developed in Android Studio using Kotlin, It has both Login &amp; Register interfaces which is connected to Google's Firebase as Backend. Users can create account, sign-in &amp; chat with other people who also have accounts registered on server.
+
+ChatWIZ is a straightforward Android Chat application developed in Android Studio using Kotlin. It features both Login and Register interfaces seamlessly connected to Google's Firebase as the backend infrastructure. Users can easily create accounts, sign in, and initiate conversations with other individuals who are also registered on the server.
+
+## Key Features offered
+- Developed using Android Studio and Kotlin.
+- Utilizes Google's Firebase as the backend infrastructure, providing robust and scalable data management.
+- Offers intuitive Login and Register interfaces, providing a seamless user experience.
+- Enables users to create accounts, sign in securely, and engage in real-time chat conversations with other users.
+
+
+> ## License
+
+> [!CAUTION]
+> This application is legally owned by  <b><em>Jubin Jacob ®</em></b> . Any unauthorized use or distribution of this application for commercial purposes is strictly prohibited. User can be held legal responsible for any actions performed using this application.
